@@ -1,1 +1,5 @@
 #Nombres de archivos y directorios que no quiero que siga git
+
+#ignoramos todos los archivos que tienen extension .bak
+
+*.bak
